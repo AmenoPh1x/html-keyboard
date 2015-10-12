@@ -7,4 +7,9 @@ Feel free to use it on your personal and commercial propjects, distribute or cot
 
 # How to use it
 
-#Costumization
+# Costumization
+
+# TODO: 
+- set as a jQuery plugin
+- change class names to remove possible conflicts
+
